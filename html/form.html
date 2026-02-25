@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/form.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="all">
+        <header> 
+            <a class="name" href="home.html">דף הבית</a>
+            <a class="name" href="hotel.html">דירות נופש</a>
+            <a class="name" href="atraction.html">אטרקציות</a>
+            <a class="name" href="form.html">צור קשר</a>
+        </header>
+        <div class="body">
+        <img src="../pictures/snow2.jpg">     
+        <img class="image" src="../pictures/snow1.jpg">   
+        <img src="../pictures/snow2.jpg">
+        <img class="smallimg" src="../pictures/snow2.jpg">
+        <form action="form2.html" target="_blank">
+            <div class="data">
+                <h1>   תאם חבילה:</h1>
+            </div>
+            <div class="data1">
+               <label for="contree" >אנא בחר את שם המדינה שברצונך לנפוש בה:</label>
+                <select class="design1" name="contree">
+                  <option value="val1">צרפת</option>
+                  <option value="val2">שוייץ</option>
+                  <option value="val3">איטליה</option>
+                </select>
+            </div>
+            <div class="data2">
+              <label for="house" >אנא בחר את קוד הדירה שכבשה את לבך:</label>
+              <input class="design1" name="f_house" id="house" type="number" placeholder="1"> 
+            </div>
+            <div class="data3">
+              <label for="at" >האם אתה מעוניין באטרקציה מיוחדת?</label>
+             <div> <input name="f_at" id="action" value="1"type="radio">כן</div> 
+             <div><input  name="f_at" id="at" value="2" type="radio"> לא</div>
+            </div>
+            <div class="data4">
+              <label for="sdate">תאריך התחלת החופשה שלך:</label>
+              <input class="design2"  name="f_sdate" id="sdate" type="date">
+            </div>
+            <div class="data4">
+              <label for="edate">תאריך סיום החופשה שלך:</label>
+              <input class="design2" name="f_edate" id="edate" type="date">
+            </div>
+            <div class="data5">
+              <label for="child">מס' הנפשות:</label>
+              <input class="design2"  name="f_child" id="child" type="number">
+            </div>
+            <div class="data6">
+              <label for="note">בקשות מיוחדות:</label>
+              <textarea class="size"  name="f_note" id="note"></textarea>
+            </div>
+            <div class="button">
+              <button value="rsdata" id="reset">נקה</button>
+              <button value="sbdata" type="submit">המשך</button>
+            </div>
+        </form>
+        </div>
+        <footer>!!!מחכים לכם</footer>
+    </div>
+</body>
+</html>
