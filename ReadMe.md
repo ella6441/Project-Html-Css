@@ -34,9 +34,10 @@
 
 ## תצוגה מקדימה
 
-| דף הבית | גלריית דירות | עמוד הרשמה | מובייל |
+| מובייל | עמוד הרשמה | גלריית דירות | דף הבית |
 | :---: | :---: | :---: | :---: |
-| <img src="images/home.png" width="200"> | <img src="images/home2.png" width="200"> | <img src="images/contact.png" width="200"> | <img src="images/hotel.png" width="120"> |
+| <img src="images/hotel.png" width="120"> | <img src="images/contact.png" width="200"> | <img src="images/home2.png" width="200"> | <img src="images/home.png" width="200"> |
+
 ## פרטי יוצר
 פותח על ידי: אלה בליטי  
 אימייל: ella0504116441@gmail.com
