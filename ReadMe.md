@@ -25,14 +25,20 @@
 - HTML5 (Semantic Markup)  
 - CSS3 (Flexbox, Grid, Responsive Design)  
 
-## מה הפרויקט מדגים למגייסים
+## עקרונות פיתוח שיושמו בפרויקט
 
 - הבנה מבנית נכונה של אתר רב־עמודי  
 - שליטה בעקרונות יסוד של Frontend  
 - חשיבה מסודרת ויכולת ארגון קוד  
 - הקפדה על קוד נקי ותחזוקתי  
 
----
+## תצוגה מקדימה
 
+| דף הבית | גלריית דירות | עמוד הרשמה | מובייל |
+| :---: | :---: | :---: | :---: |
+| <img src="images/home.png" width="200"> | <img src="images/home2.png" width="200"> |
+ <img src="images/contact.png" width="200"> | <img src="images/hotel.png" width="150"> |
+
+## פרטי יוצר
 פותח על ידי: אלה בליטי  
 אימייל: ella0504116441@gmail.com
